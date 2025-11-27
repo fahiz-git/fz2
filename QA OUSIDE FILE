@@ -1,4 +1,8 @@
 QA OUT
 added new line
 
+<<<<<<< HEAD
 my name is devb
+=======
+my name is satheesh
+>>>>>>> a0ccc08497b942ea9adca3daafc5dd6ffb314351
